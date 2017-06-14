@@ -1,0 +1,93 @@
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e16879 !important;
+      margin: 5px !important;
+    padding: 2px !important;
+    height: 2px !important;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.bg-img {
+  background-image: url("http://static1.squarespace.com/static/5459ec52e4b04d305f68f1ed/t/548a9644e4b0a171f6b28d53/1418368582035/Pattern15.jpg");
+  background-repeat: repeat-x;
+  height: 85px;
+}
+
+.profile-pic {
+  margin: -85px;
+}
+
+.img1 {
+  width: 120px;
+  }
+.img2{
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+  .margin_bottom1{
+    margin-bottom: 90px !important;
+
+  }
+/*  .navbar-brand{
+    font-size: 20px;
+  }*/
+/*  .nav_new{
+    margin: 0px !important;
+    padding: 0px !important;
+    height: 0px !important;
+  }*/
+  .nav_link{
+      padding-top: 10px !important;
+      padding-bottom: 0px !important;
+      margin-top: 0px !important;
+  }
+  .nav_new{
+        padding-top: 10px !important;
+        padding-bottom: 0px !important;
+        margin-top: 0px !important;
+        color: white;
+  }
